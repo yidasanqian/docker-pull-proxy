@@ -5,7 +5,7 @@ on:
     branches: [ main ]  
 
 env:  
-  REGISTRY: registry.cn-hangzhou.aliyuncs.com  
+  REGISTRY: registry.cn-hangzhou.aliyuncs.com
   MM_NOTIFY_URL: "${{ secrets.MM_NOTIFY_URL }}"  
 
 jobs:  
