@@ -1,2 +1,3 @@
 ghcr.io/open-webui/open-webui:0.3.35-ollama registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/open-webui:ollama
 mcr.microsoft.com/playwright/java:v1.44.0-jammy registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/playwright-java:v1.44.0-jammy
+amazoncorretto:8-alpine registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/amazoncorretto:8-alpine
