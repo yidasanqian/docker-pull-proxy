@@ -1,3 +1,5 @@
-ghcr.io/open-webui/open-webui:0.4.2-ollama registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/open-webui:ollama
+ghcr.io/open-webui/open-webui:0.4.6-ollama registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/open-webui:ollama
 mcr.microsoft.com/playwright/java:v1.44.0-jammy registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/playwright-java:v1.44.0-jammy
 amazoncorretto:8-alpine registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/amazoncorretto:8-alpine
+elasticsearch:8.16.0 registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/elasticsearch:8.16.0
+kibana:8.16.0 registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/kibana:8.16.0
