@@ -3,3 +3,4 @@ mcr.microsoft.com/playwright/java:v1.50.0-jammy registry.cn-hangzhou.aliyuncs.co
 amazoncorretto:8-alpine registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/amazoncorretto:8-alpine
 elasticsearch:8.17.0 registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/elasticsearch:8.17.0
 kibana:8.17.0 registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/kibana:8.17.0
+ollama/ollama:latest registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/ollama:latest
