@@ -5,3 +5,4 @@ elasticsearch:8.17.0 registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/elastics
 kibana:8.17.0 registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/kibana:8.17.0
 ghcr.io/beck-8/subs-check:latest registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/subs-check:latest
 ollama/ollama:latest registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/ollama:latest
+vllm/vllm-openai:latest registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/vllm-openai:latest
