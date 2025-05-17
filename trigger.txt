@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:0.6.9-ollama registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/open-webui:ollama
+ghcr.io/open-webui/open-webui:main registry.cn-hangzhou.aliyuncs.com/dev-docker-repos/open-webui:main
